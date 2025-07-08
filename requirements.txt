@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+requests
+m3u8
+pycryptodome
