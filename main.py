@@ -5,9 +5,9 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from Crypto.Cipher import AES
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-API_ID = int(os.environ.get("API_ID"))
-API_HASH = os.environ.get("API_HASH")
+BOT_TOKEN = os.environ.get("8078418472:AAHN802dzlaLZX2D9g3URDTlic6W7IX0Fb4")
+API_ID = int(os.environ.get("21567814"))
+API_HASH = os.environ.get("cd7dc5431d449fd795683c550d7bfb7e")
 
 bot = Client("classx_drm_bot", bot_token=BOT_TOKEN, api_id=API_ID, api_hash=API_HASH)
 
